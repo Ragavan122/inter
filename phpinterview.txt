@@ -1,0 +1,1 @@
+php stands for Hyper Text Pre Processor -PHP 
